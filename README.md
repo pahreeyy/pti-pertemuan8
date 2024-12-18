@@ -1,3 +1,1 @@
-Nama: Fachry  
-Jurusan: Sistem Informasi  
-Minat: Teknologi dan Pengembangan Bisnis  
+Saya sedang belajar Git dan Github
